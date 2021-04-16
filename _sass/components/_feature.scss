@@ -2,6 +2,7 @@
   height: 100%;
   border: 1px solid $white-offset;
   border-radius: 3px;
+  font-size: 16px;
   padding: 20px;
   background-color: #ffffff;
   display: flex;
@@ -21,6 +22,7 @@
     height: auto;
   }
   .feature-title {
+  font-size: 18px;
   }
   .feature-content {
     margin-bottom: 0;

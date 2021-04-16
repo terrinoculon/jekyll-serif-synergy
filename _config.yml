@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/jekyll-serif-synergy/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Synergy HR Consulting Group'
 
 google_analytics_id: ""
 
@@ -13,17 +13,14 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Synergy HR Consulting Group"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
+  meta_og_url: "https://www.synergyhrgroup.in/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_og_description: "Synergy HR Consulting Group is a team of management professionals dedicated to the vision of evolving a Total Problem Solution in the field of STRATEGY, HRD, OD, TQM & executive coaching in the process multiplying an organization’s talent nucleus and human capital, two vital pillars in creating a globally competitive benchmark organization."
 
 collections:
   services:

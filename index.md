@@ -1,12 +1,10 @@
 ---
-title: Jekyll Serif Theme
+title: Synergy HR Consulting Group
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Synergy HR Consulting Group is a team of management professionals dedicated to the vision of evolving a Total Problem Solution in the fields of Strategy, HRD, OD, TQM & Executive coaching, in the process multiplying an organization’s talent nucleus and human capital, two vital pillars in creating a globally competitive benchmark organization. The fact that in the last 15 years of its existence we have been invited to design and conduct organization wide HR, OD and training initiatives in over a hundred organizations covering 2.5 lac Shop-floor operatives, executives, managers and directors testifies to the honesty of our endeavor and the depth of our achievements.  
+intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+__Synergy HR Consulting Group__ is a team of management professionals dedicated to the vision of evolving a Total Problem Solution in the fields of _Strategy, HRD, OD, TQM & Executive coaching_, in the process multiplying an organization’s _talent nucleus and human capital_, two vital pillars in creating a globally competitive benchmark organization. The fact that in the last 15 years of its existence we have been invited to design and conduct organization wide HR, OD and training initiatives in over a hundred organizations covering 2.5 lac Shop-floor operatives, executives, managers and directors (including CEO’s in 10 of Indias top corporates and MNC’s) testifies to the honesty of our endeavor and the depth of our achievements. 

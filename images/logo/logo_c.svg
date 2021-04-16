@@ -7,15 +7,28 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="106.11682mm"
+   width="914.95166mm"
    height="102.4657mm"
-   viewBox="0 0 106.11682 102.4657"
+   viewBox="0 0 914.95166 102.4657"
    version="1.1"
    id="svg852"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="logo.svg">
   <defs
-     id="defs846" />
+     id="defs846">
+    <rect
+       x="153.45833"
+       y="206.375"
+       width="1006.3228"
+       height="284.13647"
+       id="rect1521" />
+    <rect
+       x="153.45833"
+       y="179.91667"
+       width="21.166668"
+       height="68.791664"
+       id="rect1511" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75657403"
-     inkscape:cx="-75.849333"
-     inkscape:cy="156.50829"
+     inkscape:zoom="0.14536603"
+     inkscape:cx="78.702116"
+     inkscape:cy="-69.089677"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -34,16 +47,16 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1422"
-     inkscape:window-height="1040"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid1426"
        originx="-38.445725"
-       originy="-155.35311" />
+       originy="-155.35313" />
   </sodipodi:namedview>
   <metadata
      id="metadata849">
@@ -67,5 +80,32 @@
        style="fill:#ed0000;fill-opacity:1;stroke:#ed0000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 89.875714,156.37383 c -18.081788,4.7347 -29.180808,26.49052 -22.633823,43.915 4.219912,10.41819 14.319756,17.04992 18.665951,27.33862 3.630345,9.30884 -5.577373,20.25708 -15.344314,18.47134 -12.716949,-1.69064 -21.751095,-12.85416 -25.397151,-24.48263 -2.311616,-7.78281 -3.575729,-16.23664 -1.060976,-24.13211 2.831805,-13.43011 12.055292,-24.9617 23.648277,-32.04633 2.909643,-2.44895 13.834265,-5.61648 15.421069,-8.34311 -17.259762,3.92006 -36.989719,19.54954 -42.022279,36.39741 -1.525483,6.59795 -3.837845,13.51376 -1.722969,20.2579 1.562952,11.69834 7.493909,22.5763 15.853021,30.81107 8.023364,7.74413 21.055466,12.04745 31.391064,6.39191 9.680403,-4.56389 14.162236,-17.09959 9.836577,-26.82667 -4.28648,-13.16649 -18.272132,-20.61463 -21.368248,-34.3544 -2.327477,-11.37586 1.833611,-25.19303 12.169428,-30.64302 4.300121,-2.26742 16.623379,-5.11562 2.564353,-2.75458 m 12.611896,5.3213 c -10.776204,1.54254 -19.062409,12.4728 -17.34181,23.27152 1.377254,9.96472 9.586328,16.81322 15.1167,24.59901 9.08613,9.97455 11.58144,25.92471 4.17597,37.54438 -2.65584,4.35125 -10.87298,8.15138 -15.563461,10.21303 3.292965,1.73924 14.638371,-3.21668 17.927781,-6.23652 5.56993,-5.52158 9.31217,-12.94217 10.85259,-20.61679 1.11517,-7.60858 -0.37861,-15.6147 -4.95103,-21.91113 -5.12556,-7.99428 -13.60808,-14.03837 -16.245663,-23.48471 -1.61802,-7.79103 4.542523,-16.95671 12.997043,-16.25249 11.12259,-0.0867 21.09548,7.5159 25.66438,17.3832 4.34444,8.40177 6.05129,18.29757 4.66226,27.66328 -1.03554,6.93395 -3.47885,13.6511 -7.5941,19.37526 -6.51501,9.88375 -20.70562,17.91746 -31.13622,23.24026 3.02432,1.10364 12.05168,-2.85173 15.39521,-4.18674 14.47739,-7.48076 25.08106,-22.10406 27.181,-38.32634 2.12143,-7.80749 -0.42839,-15.80399 -2.3586,-23.35355 -4.69873,-11.50914 -12.76858,-22.98858 -24.91875,-27.29552 -4.42024,-1.56516 -9.19642,-2.23589 -13.86273,-1.62566"
        sodipodi:nodetypes="ccccccccccccccscccccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       id="text1509"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1511);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="153.45898"
+         y="258.07272"><tspan
+           dx="0 6.7179146 6.2631636 6.7075796 6.5112095 4.2581253 6.624897 6.2631645 3.3641243 7.3897057 6.4750366 6.7075806 5.513855 6.7075806 2.9403839 4.1495972 2.9403839 6.7075806">Synergy Consulting</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="185.20833"
+       y="248.70834"
+       id="text1517"><tspan
+         sodipodi:role="line"
+         id="tspan1515"
+         x="185.20833"
+         y="248.70834"
+         style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       id="text1519"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1521);fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+       transform="translate(28.496578,-18.998477)"><tspan
+         x="153.45898"
+         y="262.24368"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.1444px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1">SYNERGY CONSULTING</tspan></tspan></text>
   </g>
 </svg>
