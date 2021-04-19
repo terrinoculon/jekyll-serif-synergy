@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="688.5733mm"
-   height="102.96557mm"
-   viewBox="0 0 688.5733 102.96557"
+   width="496.83206mm"
+   height="102.4657mm"
+   viewBox="0 0 496.83206 102.4657"
    version="1.1"
    id="svg852"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo_mob.svg">
   <defs
      id="defs846">
     <rect
@@ -37,8 +37,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.14536603"
-     inkscape:cx="78.702105"
-     inkscape:cy="-69.089651"
+     inkscape:cx="-2139.4156"
+     inkscape:cy="-291.00484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -55,7 +55,7 @@
     <inkscape:grid
        type="xygrid"
        id="grid1426"
-       originx="-38.445726"
+       originx="-38.445724"
        originy="-155.35312" />
   </sodipodi:namedview>
   <metadata
@@ -103,9 +103,9 @@
        xml:space="preserve"
        id="text1519"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1521);fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1;"
-       transform="translate(28.496578,-18.998477)"><tspan
+       transform="translate(25.858384,2.0487168)"><tspan
          x="153.45898"
-         y="262.24368"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.1444px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1">Synergy Consulting</tspan></tspan></text>
+         y="242.86073"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1556px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Synergy Consulting</tspan></tspan></text>
   </g>
 </svg>
