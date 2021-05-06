@@ -1,0 +1,33 @@
+.news {
+    height: 100%;
+    border: 1px solid $white-offset;
+    border-radius: 8px;
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+    background-color: #e0e0e0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    .news-image {
+      flex: 0 0 auto;
+      width: 256px;
+      height: auto;
+      display: flex;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+    .news-title {
+    font-size: 18px;
+    }
+    .news-content {
+      margin-bottom: 0;
+      margin-top: auto;
+    }
+  }
+  

@@ -8,10 +8,6 @@
     "description": "Synergy Group’s faculty development program for technical trainers at Pfizer has created a talent pool of committed facilitators and helped create a learning environment in all our plant locations."
   },
   {
-    "title": "India Today",
-    "description": "This program changes the mindset of employees and thereby rekindles within the employees the desire to excel."
-  },
-  {
     "title": "K.K.Nohria MD, Crompton Greaves",
     "description": "Our interaction with your team has been most productive and has been largely helpful in changing the mindset of our people. It has changed the entire IR paradigm in Crompton Greaves Ltd."
   },
@@ -19,20 +15,25 @@
     "title": "Peter Lydon MD, Pfizer India",
     "description": "This is by far the most pragmatic and hands on program on Total Quality Management of the three I have attended including two in U.S.A. An absolutely first rate job."
   },
+ {
+    "title":"Dr. A.M.Shah, Executive Vice President, Mafatlal Group of Industries",
+    "description":"This program constitutes a virtual revolution in the Industrial Relations climate of Mafatlal Industries."
+  },
+  {
+    "title": "I.B. Rupani CEO, AGIV Group, Dubai / Tokyo",
+    "description":"As a multinational business house this ranks with the finest management programs I and my Directors have attended"  
+  },
   {
     "title": "Indian Express",
     "description": "A silent revolution has begun bringing about metamorphosis in the behavioral pattern of workers leading to a better quality of life in their homes as well as in their work places"  
   },
-  {
-    "title": "I.B. Rupani CEO, AGIV Group, Dubai / Tokyo",
-    "description":"As a multinational business house this ranks with the finest management programs I and my Directors have attended"  },
+   {
+    "title": "India Today",
+    "description": "This program changes the mindset of employees and thereby rekindles within the employees the desire to excel."
+  },
+  
   {
     "title": " Dr. Pradip Khandwala, Chairman, National HRD awards committee",
     "description":"One of the most innovative grass roots HRD efforts in the country today"
-  },
-  {
-    "title":"Dr. A.M.Shah, Executive Vice President, Mafatlal Group of Industries",
-    "description":"This program constitutes a virtual revolution in the Industrial Relations climate of Mafatlal Industries."
   }
-
 ]

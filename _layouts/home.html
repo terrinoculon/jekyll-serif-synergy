@@ -68,3 +68,25 @@ bodyClass: page-home
   </div>
 </div>
 {% endif %}
+
+{% if site.data.news %}
+<div class="strip strip-white">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+      <h2 class="service-title"><center>Press Coverage</center></h2></br>
+      <div class="row justify-content-center">
+
+      {% for news in site.data.news %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if news.image %}
+          <div class="news-image"><img alt="{{ news.title }} logo" src="{{ news.image | relative_url }}" /></div>
+          {% endif %}
+          <a href = {{news.url}}><h2 class="news-title">{{ news.title }}</h2></a>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
