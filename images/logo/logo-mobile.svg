@@ -12,8 +12,8 @@
    viewBox="0 0 688.5733 102.96557"
    version="1.1"
    id="svg852"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="logo.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="logo-mobile.svg">
   <defs
      id="defs846">
     <rect
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.14536603"
-     inkscape:cx="78.702105"
+     inkscape:cx="1623.0794"
      inkscape:cy="-69.089651"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -47,10 +47,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1041"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -87,7 +87,7 @@
          style="visibility:hidden"
          x="153.45898"
          y="258.07272"><tspan
-           dx="0 6.7179146 6.2631636 6.7075796 6.5112095 4.2581253 6.624897 6.2631645 3.3641243 7.3897057 6.4750366 6.7075806 5.513855 6.7075806 2.9403839 4.1495972 2.9403839 6.7075806">Synergy Consulting</tspan></tspan></text>
+           dx="0 6.7179146 6.2631636 6.7075796 6.5112095 4.1651077 6.7179146 6.2631645 3.3641243 7.3897057 6.4750366 6.7075806 5.513855 6.7075806 2.9403839 4.1495972 2.9403839 6.7075806">Synergy Consulting</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -103,7 +103,7 @@
        xml:space="preserve"
        id="text1519"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1521);fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1;"
-       transform="translate(28.496578,-18.998477)"><tspan
+       transform="matrix(0.92223797,0,0,0.92223797,40.655684,-2.2782394)"><tspan
          x="153.45898"
          y="262.24368"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.1444px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ed0000;fill-opacity:1;stroke:none;stroke-opacity:1">Synergy Consulting</tspan></tspan></text>
