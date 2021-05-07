@@ -3,7 +3,7 @@ title: Services
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true 
 ---
 
 # Services 
@@ -16,3 +16,4 @@ We feel privileged to present our National HRD award winning programs: These hig
 - cutting down lead times in your critical processes.
 - creating a proactive organizational culture with focus on "on time delivery"  
 - herald a new paradigm in customer centric organization behavior.
+

@@ -116,14 +116,14 @@ details[open] {
 }
 
 details p {
-  color: #96999d;
+  color: $steel;
   font-weight: 300;
 }
 
 summary {
   font-size: 24px;
   font-family: $font-family-heading;
-  font-weight: normal;
+  font-weight:bold; 
   line-height: 1.4;
   margin-bottom: 10px;
   display: flex;
@@ -145,7 +145,8 @@ summary:focus::after {
   position: absolute;
   top: 0;
   left: 0;
-  box-shadow: 0 0 0 5px $primary;
+  border-radius: 16px;
+  box-shadow: 0 0 0 1px $primary;
 }
 
 summary::-webkit-details-marker {
