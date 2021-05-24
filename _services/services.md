@@ -67,7 +67,7 @@ The focus is on developing strategies, tools and practices for survival in the i
 <details markdown="1">
 <summary>Organization culture diagnostic research & HR system / policy design <svg class="control-icon control-icon-expand" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#expand-more" /></svg>
 <svg class="control-icon control-icon-close" width="24" height="24" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#close" /></svg>
-</summary>. Synergy team of consultants some of whom have been global resource persons have demonstrated results in our key client organizations with services such as:
+</summary> Synergy team of consultants some of whom have been global resource persons have demonstrated results in our key client organizations with services such as:
 - Institutionalizing the organizational DNA by evolving its vision, mission and values - grassroots upwards.
 - Developing entrepreneurial transformational leadership teams across hierarchies & business verticals. 
 - Employee onboarding systems(Induction, systems & training)  

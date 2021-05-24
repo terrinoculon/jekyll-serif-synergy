@@ -3,5 +3,11 @@
         "title": "Guiding Principles : India Today",
         "url":"https://www.indiatoday.in/magazine/economy/story/19940715-guiding-principles-755684-1994-07-15",
         "image":"images/news/GuidingPrinciples.png"
+    },
+    {
+        "title": "On Moral Business: Classical and Contemporary Resources for Ethics in Economic Life",
+        "url":"https://books.google.ch/books?id=gGFyCgAAQBAJ&lpg=PT2210&ots=nfERMa19n-&dq=vanraj%20jhala&hl=de&pg=PT2210#v=onepage&q=vanraj%20jhala&f=false",
+        "image":"images/news/MoralBusiness.png",
+        "iframe":"<iframe frameborder=\"0\" scrolling=\"no\" style=\"border:0px\" src=\"https://books.google.ch/books?id=gGFyCgAAQBAJ&lpg=PT2210&ots=nfERMa19n-&dq=vanraj%20jhala&hl=de&pg=PT2210&output=embed\" width=500 height=500></iframe>"
     }
 ]
